@@ -11,4 +11,5 @@ target
 src/test/*
 logs
 *.res
+pom.xml
 ftpdownload
