@@ -1,0 +1,14 @@
+.DS_Store
+.classpath
+.project
+.settings
+target
+*.iml
+.springBeans
+.myumldata
+.idea
+.idea/*.xml
+src/test/*
+logs
+*.res
+ftpdownload
